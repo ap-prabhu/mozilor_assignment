@@ -1,0 +1,17 @@
+.bg-dark {
+  background-color: rgb(0 124 249) !important;
+}
+
+.navbar-nav {
+  align-items: center;
+}
+
+.navbar-collapse{
+  justify-content: space-between;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  color: #f8f9fa;
+  border-bottom: 2px solid #f8f9fa; 
+}
